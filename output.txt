@@ -1,0 +1,179 @@
+mc_single
+Estimation of Pi with single thread, 100 tosses: 3.240000
+Elapsed time: 0.000007
+Estimation of Pi with single thread, 1000 tosses: 3.168000
+Elapsed time: 0.000022
+Estimation of Pi with single thread, 10000 tosses: 3.168800
+Elapsed time: 0.000153
+Estimation of Pi with single thread, 100000 tosses: 3.144640
+Elapsed time: 0.001568
+Estimation of Pi with single thread, 1000000 tosses: 3.141892
+Elapsed time: 0.015556
+Estimation of Pi with single thread, 10000000 tosses: 3.141668
+Elapsed time: 0.157145
+Estimation of Pi with single thread, 100000000 tosses: 3.141572
+Elapsed time: 1.513156
+Estimation of Pi with single thread, 1000000000 tosses: 3.141589
+Elapsed time: 15.221397
+mc_mpi
+Estimation of Pi with 2 procesess, 100 tosses: 3.120000
+Elapsed time = 0.002104 seconds
+Estimation of Pi with 2 procesess, 1000 tosses: 3.156000
+Elapsed time = 0.000081 seconds
+Estimation of Pi with 2 procesess, 10000 tosses: 3.149200
+Elapsed time = 0.000094 seconds
+Estimation of Pi with 2 procesess, 100000 tosses: 3.146040
+Elapsed time = 0.001350 seconds
+Estimation of Pi with 2 procesess, 1000000 tosses: 3.142016
+Elapsed time = 0.007845 seconds
+Estimation of Pi with 2 procesess, 10000000 tosses: 3.141918
+Elapsed time = 0.081419 seconds
+Estimation of Pi with 2 procesess, 100000000 tosses: 3.141654
+Elapsed time = 0.812265 seconds
+Estimation of Pi with 2 procesess, 1000000000 tosses: 3.141591
+Elapsed time = 7.818905 seconds
+Estimation of Pi with 4 procesess, 100 tosses: 3.160000
+Elapsed time = 0.000048 seconds
+Estimation of Pi with 4 procesess, 1000 tosses: 3.200000
+Elapsed time = 0.000449 seconds
+Estimation of Pi with 4 procesess, 10000 tosses: 3.123200
+Elapsed time = 0.000349 seconds
+Estimation of Pi with 4 procesess, 100000 tosses: 3.141120
+Elapsed time = 0.000986 seconds
+Estimation of Pi with 4 procesess, 1000000 tosses: 3.142256
+Elapsed time = 0.005718 seconds
+Estimation of Pi with 4 procesess, 10000000 tosses: 3.141939
+Elapsed time = 0.044507 seconds
+Estimation of Pi with 4 procesess, 100000000 tosses: 3.141813
+Elapsed time = 0.446075 seconds
+Estimation of Pi with 4 procesess, 1000000000 tosses: 3.141585
+Elapsed time = 6.097700 seconds
+Estimation of Pi with 8 procesess, 100 tosses: 3.080000
+Elapsed time = 0.001205 seconds
+Estimation of Pi with 8 procesess, 1000 tosses: 3.048000
+Elapsed time = 0.000573 seconds
+Estimation of Pi with 8 procesess, 10000 tosses: 3.112000
+Elapsed time = 0.000482 seconds
+Estimation of Pi with 8 procesess, 100000 tosses: 3.135520
+Elapsed time = 0.000396 seconds
+Estimation of Pi with 8 procesess, 1000000 tosses: 3.137356
+Elapsed time = 0.003920 seconds
+Estimation of Pi with 8 procesess, 10000000 tosses: 3.141008
+Elapsed time = 0.037035 seconds
+Estimation of Pi with 8 procesess, 100000000 tosses: 3.141543
+Elapsed time = 0.407953 seconds
+Estimation of Pi with 8 procesess, 1000000000 tosses: 3.141590
+Elapsed time = 4.590210 seconds
+Estimation of Pi with 16 procesess, 100 tosses: 3.040000
+Elapsed time = 0.117401 seconds
+Estimation of Pi with 16 procesess, 1000 tosses: 3.148000
+Elapsed time = 0.057590 seconds
+Estimation of Pi with 16 procesess, 10000 tosses: 3.156400
+Elapsed time = 0.037417 seconds
+Estimation of Pi with 16 procesess, 100000 tosses: 3.151640
+Elapsed time = 0.018686 seconds
+Estimation of Pi with 16 procesess, 1000000 tosses: 3.142600
+Elapsed time = 0.077529 seconds
+Estimation of Pi with 16 procesess, 10000000 tosses: 3.141334
+Elapsed time = 0.115774 seconds
+Estimation of Pi with 16 procesess, 100000000 tosses: 3.141533
+Elapsed time = 0.508095 seconds
+Estimation of Pi with 16 procesess, 1000000000 tosses: 3.141589
+Elapsed time = 4.432132 seconds
+Estimation of Pi with 32 procesess, 100 tosses: 3.120000
+Elapsed time = 0.237225 seconds
+Estimation of Pi with 32 procesess, 1000 tosses: 3.160000
+Elapsed time = 0.137638 seconds
+Estimation of Pi with 32 procesess, 10000 tosses: 3.163600
+Elapsed time = 0.156288 seconds
+Estimation of Pi with 32 procesess, 100000 tosses: 3.150440
+Elapsed time = 0.157647 seconds
+Estimation of Pi with 32 procesess, 1000000 tosses: 3.142000
+Elapsed time = 0.187672 seconds
+Estimation of Pi with 32 procesess, 10000000 tosses: 3.141788
+Elapsed time = 0.155536 seconds
+Estimation of Pi with 32 procesess, 100000000 tosses: 3.141735
+Elapsed time = 0.607566 seconds
+Estimation of Pi with 32 procesess, 1000000000 tosses: 3.141590
+Elapsed time = 4.657292 seconds
+mc_thread
+Estimation of Pi with 2 threads, 100 tosses: 3.240000
+Elapsed time: 0.000162
+Estimation of Pi with 2 threads, 1000 tosses: 3.204000
+Elapsed time: 0.000187
+Estimation of Pi with 2 threads, 10000 tosses: 3.164800
+Elapsed time: 0.000447
+Estimation of Pi with 2 threads, 100000 tosses: 3.144160
+Elapsed time: 0.003112
+Estimation of Pi with 2 threads, 1000000 tosses: 3.142564
+Elapsed time: 0.028285
+Estimation of Pi with 2 threads, 10000000 tosses: 3.142162
+Elapsed time: 0.249402
+Estimation of Pi with 2 threads, 100000000 tosses: 3.141500
+Elapsed time: 1.927614
+Estimation of Pi with 2 threads, 1000000000 tosses: 3.141589
+Elapsed time: 21.013212
+Estimation of Pi with 4 threads, 100 tosses: 2.600000
+Elapsed time: 0.000214
+Estimation of Pi with 4 threads, 1000 tosses: 3.076000
+Elapsed time: 0.000212
+Estimation of Pi with 4 threads, 10000 tosses: 3.136400
+Elapsed time: 0.000289
+Estimation of Pi with 4 threads, 100000 tosses: 3.139680
+Elapsed time: 0.001672
+Estimation of Pi with 4 threads, 1000000 tosses: 3.139648
+Elapsed time: 0.017451
+Estimation of Pi with 4 threads, 10000000 tosses: 3.141119
+Elapsed time: 0.167313
+Estimation of Pi with 4 threads, 100000000 tosses: 3.141434
+Elapsed time: 2.278301
+Estimation of Pi with 4 threads, 1000000000 tosses: 3.141596
+Elapsed time: 23.245819
+Estimation of Pi with 8 threads, 100 tosses: 3.240000
+Elapsed time: 0.000440
+Estimation of Pi with 8 threads, 1000 tosses: 3.136000
+Elapsed time: 0.000712
+Estimation of Pi with 8 threads, 10000 tosses: 3.122800
+Elapsed time: 0.000529
+Estimation of Pi with 8 threads, 100000 tosses: 3.136880
+Elapsed time: 0.002667
+Estimation of Pi with 8 threads, 1000000 tosses: 3.142972
+Elapsed time: 0.016220
+Estimation of Pi with 8 threads, 10000000 tosses: 3.142330
+Elapsed time: 0.157479
+Estimation of Pi with 8 threads, 100000000 tosses: 3.141771
+Elapsed time: 1.758509
+Estimation of Pi with 8 threads, 1000000000 tosses: 3.141582
+Elapsed time: 14.702231
+Estimation of Pi with 16 threads, 100 tosses: 2.880000
+Elapsed time: 0.000681
+Estimation of Pi with 16 threads, 1000 tosses: 3.136000
+Elapsed time: 0.000638
+Estimation of Pi with 16 threads, 10000 tosses: 3.136000
+Elapsed time: 0.000664
+Estimation of Pi with 16 threads, 100000 tosses: 3.142600
+Elapsed time: 0.001522
+Estimation of Pi with 16 threads, 1000000 tosses: 3.143244
+Elapsed time: 0.009377
+Estimation of Pi with 16 threads, 10000000 tosses: 3.141927
+Elapsed time: 0.086224
+Estimation of Pi with 16 threads, 100000000 tosses: 3.141743
+Elapsed time: 0.907269
+Estimation of Pi with 16 threads, 1000000000 tosses: 3.141586
+Elapsed time: 9.692247
+Estimation of Pi with 32 threads, 100 tosses: 3.120000
+Elapsed time: 0.001651
+Estimation of Pi with 32 threads, 1000 tosses: 3.140000
+Elapsed time: 0.001461
+Estimation of Pi with 32 threads, 10000 tosses: 3.133200
+Elapsed time: 0.001439
+Estimation of Pi with 32 threads, 100000 tosses: 3.139840
+Elapsed time: 0.001634
+Estimation of Pi with 32 threads, 1000000 tosses: 3.142740
+Elapsed time: 0.008413
+Estimation of Pi with 32 threads, 10000000 tosses: 3.141961
+Elapsed time: 0.081557
+Estimation of Pi with 32 threads, 100000000 tosses: 3.141335
+Elapsed time: 0.703189
+Estimation of Pi with 32 threads, 1000000000 tosses: 3.141592
+Elapsed time: 6.903457
